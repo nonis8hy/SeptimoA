@@ -1,0 +1,16 @@
+img{
+    border: solid black;
+    width: 155;
+    height: 155;
+}
+h1{
+    background-color: blue ;
+    color: white;
+}
+table  {
+    color: #8da5f8;
+    margin: 10px;
+}
+a{
+    margin: 10px;
+}
